@@ -468,6 +468,15 @@ Si no decides continuar no tienes que pagar nada.
           </div>
         </div>
       </footer>
+
+      <a
+        href="https://wa.me/34000000000"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-5 right-5 z-50 flex h-16 w-16 items-center justify-center rounded-full bg-[#25D366] text-white shadow-[0_0_30px_rgba(37,211,102,0.45)] transition hover:scale-110"
+      >
+        <FaWhatsapp className="h-8 w-8" />
+      </a>
     </div>
   );
 }
