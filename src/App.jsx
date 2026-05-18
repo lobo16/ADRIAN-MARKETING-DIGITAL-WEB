@@ -77,10 +77,10 @@ export default function AdrianMarketingDigitalLanding() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8 md:py-5">
           <div className="flex items-center gap-2 md:gap-3">
         <img
-  src={logoAMD}
-  alt="AMD Logo"
-  className="h-16 w-16 object-contain md:h-20 md:w-20"
-/>
+        src={logoAMD}
+        alt="AMD Logo"
+        className="h-16 w-16 object-contain md:h-20 md:w-20"
+        />
             <div>
               <p className="text-xs font-semibold tracking-[0.2em] text-white md:text-sm md:tracking-[0.22em]">
                 ADRIÁN
