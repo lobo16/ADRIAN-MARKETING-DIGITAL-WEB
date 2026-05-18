@@ -195,7 +195,7 @@ export default function AdrianMarketingDigitalLanding() {
               </div>
 
               <div className="grid gap-3 md:gap-4">
-                {[["15 días iniciales", "Probamos estrategia, anuncios y mensajes sin cobrar gestión desde el primer día.", <Clock3 className="h-5 w-5" />], ["Solo inversión publicitaria", "El presupuesto de anuncios va para Meta. Nuestros honorarios empiezan si decides seguir.", <Target className="h-5 w-5" />], ["Sin permanencia", "Si no te convence, paras ahí. Sin compromiso largo y sin presión.", <ShieldCheck className="h-5 w-5" />]].map(([title, text, icon]) => (
+                {[["15 días iniciales", "Probamos estrategia, anuncios y mensajes sin cobrar gestión desde el primer día.", <Clock3 className="h-5 w-5" />], ["Solo inversión publicitaria", "El presupuesto de anuncios va para Meta. Nuestros honorarios empiezan si decides seguir.", <Target className="h-5 w-5" />], ["Sin permanencia", "Si no te convence, paras ahí. Sin compromiso y sin presión.", <ShieldCheck className="h-5 w-5" />]].map(([title, text, icon]) => (
                   <div key={title} className="rounded-[1.2rem] border border-white/10 bg-black/35 p-4 md:rounded-[1.5rem] md:p-5">
                     <div className="mb-2 flex items-center gap-3 text-[#D8B45B] md:mb-3">{icon}<p className="font-semibold">{title}</p></div>
                     <p className="text-sm leading-6 text-white/62 md:text-base md:leading-7">{text}</p>
