@@ -63,7 +63,7 @@ export default function AdrianMarketingDigitalLanding() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-5 md:px-8">
 <div className="flex items-center gap-3">
   <img
-    src="/logo_guion_solo_guion_símbolo.png"
+   src="/logo-solo-simbolo.png"
     alt="Adrián Marketing Digital"
     className="h-16 w-16 object-contain"
   />
