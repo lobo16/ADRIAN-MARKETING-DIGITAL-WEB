@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import logoAMD from "./assets/logooaa.png";
+import logoAMD from "./assets/logo-final.png";
   ArrowRight,
   BarChart3,
   Bot,
