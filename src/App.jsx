@@ -76,12 +76,11 @@ export default function AdrianMarketingDigitalLanding() {
       <header className="relative z-10 border-b border-white/10 bg-black/40 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8 md:py-5">
           <div className="flex items-center gap-2 md:gap-3">
-            <img
-              src="/logooaa.png"
-              alt="AMD Logo"
-              className="h-12 w-12 object-contain md:h-16 md:w-16"
-            />
-
+         <img
+  src="/logooaa.png"
+  alt="AMD Logo"
+  className="h-16 w-16 object-contain"
+/>
             <div>
               <p className="text-xs font-semibold tracking-[0.2em] text-white md:text-sm md:tracking-[0.22em]">
                 ADRIÁN
@@ -126,7 +125,7 @@ export default function AdrianMarketingDigitalLanding() {
           >
             <div className="mb-5 inline-flex w-fit items-center gap-2 rounded-full border border-[#D8B45B]/30 bg-[#D8B45B]/10 px-3 py-2 text-xs text-[#E9D398] md:px-4 md:text-sm">
               <Sparkles className="h-4 w-4" />
-              15 días sin pagar honorarios.
+             Prueba inicial: 15 días o hasta generar 1.000 €.
             </div>
 
             <h1 className="max-w-4xl text-4xl font-semibold leading-[1.04] tracking-tight text-white md:text-7xl">
@@ -265,7 +264,8 @@ export default function AdrianMarketingDigitalLanding() {
                   Durante los primeros 15 días trabajamos tu captación sin cobrar honorarios de gestión. Tú solo pagas la inversión que vaya directamente a Meta.
                 </p>
                 <p className="mt-4 text-sm leading-6 text-white/48 md:text-base md:leading-7">
-                  Pasados esos 15 días, o al alcanzar 1.000 € de facturación generada, revisamos resultados y decides si quieres continuar.
+                  Pasados esos 15 días, o al alcanzar 1.000 € de facturación generada, revisamos resultados y decides si quieres continuar,Si decides continuar, el mes se factura completo desde el inicio del periodo trabajado.
+Si no decides continuar no tienes que pagar nada.
                 </p>
               </div>
 
