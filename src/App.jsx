@@ -79,7 +79,7 @@ export default function AdrianMarketingDigitalLanding() {
          <img
   src={logoAMD}
   alt="AMD Logo"
-  className="h-16 w-16 object-contain"
+  className="h-24 w-24 object-contain scale-125"
 />
             <div>
               <p className="text-xs font-semibold tracking-[0.2em] text-white md:text-sm md:tracking-[0.22em]">
