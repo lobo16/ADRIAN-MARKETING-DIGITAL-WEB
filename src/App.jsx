@@ -9,7 +9,7 @@ import {
   Clock3,
   Gift,
   Globe2,
-  Instagram,
+  Camera,
   Mail,
   MessageCircle,
   MousePointerClick,
@@ -321,7 +321,7 @@ export default function AdrianMarketingDigitalLanding() {
 
           <div className="flex flex-wrap items-center justify-center gap-4 text-sm text-white/50 md:justify-end">
             <a href="https://instagram.com/adrian.marketing.digital" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition hover:text-white">
-              <Instagram className="h-4 w-4" />
+              <Camera className="h-4 w-4" />
               Instagram
             </a>
             <a href="https://wa.me/34000000000" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition hover:text-white">
