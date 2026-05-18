@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import {
+import logoAMD from "./assets/logooaa.png";
   ArrowRight,
   BarChart3,
   Bot,
@@ -77,7 +77,7 @@ export default function AdrianMarketingDigitalLanding() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8 md:py-5">
           <div className="flex items-center gap-2 md:gap-3">
          <img
-  src="/logo-amd.png.png"
+  src={logoAMD}
   alt="AMD Logo"
   className="h-16 w-16 object-contain"
 />
