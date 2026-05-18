@@ -264,7 +264,7 @@ export default function AdrianMarketingDigitalLanding() {
                   Durante los primeros 15 días trabajamos tu captación sin cobrar honorarios de gestión. Tú solo pagas la inversión que vaya directamente a Meta.
                 </p>
                 <p className="mt-4 text-sm leading-6 text-white/48 md:text-base md:leading-7">
-                  Pasados esos 15 días, o al alcanzar 1.000 € de facturación generada, revisamos resultados y decides si quieres continuar,Si decides continuar, el mes se factura completo desde el inicio del periodo trabajado.
+                  Pasados esos 15 días, o al alcanzar 1.000 € de facturación generada, revisamos resultados y decides si quieres continuar, si decides continuar, el mes se factura completo desde el inicio del periodo trabajado.
 Si no decides continuar no tienes que pagar nada.
                 </p>
               </div>
