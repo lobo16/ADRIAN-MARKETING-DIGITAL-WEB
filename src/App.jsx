@@ -65,7 +65,7 @@ export default function AdrianMarketingDigitalLanding() {
   <img
     src="/logo_guion_solo_guion_símbolo.png"
     alt="Adrián Marketing Digital"
-    className="h-14 w-14 rounded-full object-contain"
+    className="h-16 w-16 object-contain"
   />
 
   <div>
