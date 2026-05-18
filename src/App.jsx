@@ -61,15 +61,23 @@ export default function AdrianMarketingDigitalLanding() {
 
       <header className="relative z-10 border-b border-white/10 bg-black/30 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-5 md:px-8">
-          <div className="flex items-center gap-3">
-            <div className="flex h-11 w-11 items-center justify-center rounded-full border border-[#D8B45B]/70 bg-white/5 text-lg font-bold tracking-tight text-[#D8B45B]">
-              AMD
-            </div>
-            <div>
-              <p className="text-sm font-semibold tracking-[0.22em] text-white">ADRIÁN</p>
-              <p className="text-xs tracking-[0.28em] text-[#D8B45B]">MARKETING DIGITAL</p>
-            </div>
-          </div>
+<div className="flex items-center gap-3">
+  <img
+    src="/logo_guion_solo_guion_símbolo.png"
+    alt="Adrián Marketing Digital"
+    className="h-14 w-14 rounded-full object-contain"
+  />
+
+  <div>
+    <p className="text-sm font-semibold tracking-[0.22em] text-white">
+      ADRIÁN
+    </p>
+
+    <p className="text-xs tracking-[0.28em] text-[#D8B45B]">
+      MARKETING DIGITAL
+    </p>
+  </div>
+</div>
 
           <nav className="hidden items-center gap-8 text-sm text-white/70 md:flex">
             <a href="#servicios" className="transition hover:text-white">Servicios</a>
