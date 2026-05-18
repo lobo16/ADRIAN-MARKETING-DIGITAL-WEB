@@ -298,7 +298,7 @@ export default function AdrianMarketingDigitalLanding() {
               </a>
             </div>
 
-            <p className="mt-5 text-xs text-white/40 md:mt-6 md:text-sm">WhatsApp, email y enlaces definitivos pendientes de configurar.</p>
+        
           </div>
         </motion.section>
       </main>
