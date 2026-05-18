@@ -294,7 +294,14 @@ Si no decides continuar no tienes que pagar nada.
           </div>
         </section>
 
-        <section id="servicios" className="mx-auto max-w-7xl px-4 py-12 md:px-8 md:py-28">
+        <motion.section
+  id="servicios"
+  initial={{ opacity: 0, y: 35 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.6, ease: "easeOut" }}
+  viewport={{ once: true, amount: 0.2 }}
+  className="mx-auto max-w-7xl px-4 py-12 md:px-8 md:py-28"
+>
           <div className="mb-8 max-w-3xl md:mb-12">
             <p className="mb-3 text-xs font-semibold uppercase tracking-[0.24em] text-[#D8B45B] md:text-sm md:tracking-[0.28em]">
               Servicios
@@ -323,7 +330,7 @@ Si no decides continuar no tienes que pagar nada.
               </div>
             ))}
           </div>
-        </section>
+        </motion.section>
 
         <section className="bg-[#0d0d0d] py-12 md:py-28">
           <div className="mx-auto grid max-w-7xl gap-7 px-4 md:grid-cols-2 md:gap-10 md:px-8">
