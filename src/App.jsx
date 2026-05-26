@@ -293,7 +293,7 @@ export default function AdrianMarketingDigitalLanding() {
                 <MessageCircle className="h-5 w-5" />
                 Contactar por WhatsApp
               </a>
-              <a href="mailto:contacto@adrianmarketingdigital.com" className="inline-flex items-center justify-center rounded-full border border-white/15 bg-white/5 px-7 py-4 text-sm font-semibold text-white transition hover:bg-white/10 md:px-8 md:text-base">
+              <a href="mailto:adriamarkdigital@gmail.com" className="inline-flex items-center justify-center rounded-full border border-white/15 bg-white/5 px-7 py-4 text-sm font-semibold text-white transition hover:bg-white/10 md:px-8 md:text-base">
                 Enviar email
               </a>
             </div>
@@ -333,10 +333,10 @@ export default function AdrianMarketingDigitalLanding() {
               <MessageCircle className="h-4 w-4" />
               WhatsApp
             </a>
-            <a href="mailto:contacto@adrianmarketingdigital.com" className="inline-flex items-center gap-2 transition hover:text-white">
-              <Mail className="h-4 w-4" />
-              Email
-            </a>
+            <a href="mailto:adriamarkdigital@gmail.com" className="inline-flex items-center gap-2 transition hover:text-white">
+  <Mail className="h-4 w-4" />
+  Email
+</a>
           </div>
         </div>
       </footer>
