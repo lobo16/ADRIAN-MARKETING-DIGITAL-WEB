@@ -320,10 +320,15 @@ export default function AdrianMarketingDigitalLanding() {
           </div>
 
           <div className="flex flex-wrap items-center justify-center gap-4 text-sm text-white/50 md:justify-end">
-            <a href="https://instagram.com/adrian.marketing.digital" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition hover:text-white">
-              <Camera className="h-4 w-4" />
-              Instagram
-            </a>
+            <a
+  href="https://wa.me/34604806636?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20Adri%C3%A1n%20Marketing%20Digital"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 transition hover:text-white"
+>
+  <MessageCircle className="h-4 w-4" />
+  WhatsApp
+</a>
             <a href="https://wa.me/34604806636" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition hover:text-white">
               <MessageCircle className="h-4 w-4" />
               WhatsApp
