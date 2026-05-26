@@ -107,7 +107,7 @@ export default function AdrianMarketingDigitalLanding() {
             </p>
 
             <div className="mt-7 flex flex-col gap-3 sm:flex-row md:mt-9 md:gap-4">
-              <a href="https://wa.me/34000000000?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20marketing%20digital" className="group inline-flex items-center justify-center gap-2 rounded-full bg-[#D8B45B] px-6 py-4 text-sm font-semibold text-black shadow-[0_0_40px_rgba(216,180,91,0.18)] transition hover:scale-[1.03] hover:bg-[#e7c76e] hover:shadow-[0_0_50px_rgba(216,180,91,0.35)] md:text-base">
+              <a href="https://wa.me/34604806636?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20marketing%20digital" className="group inline-flex items-center justify-center gap-2 rounded-full bg-[#D8B45B] px-6 py-4 text-sm font-semibold text-black shadow-[0_0_40px_rgba(216,180,91,0.18)] transition hover:scale-[1.03] hover:bg-[#e7c76e] hover:shadow-[0_0_50px_rgba(216,180,91,0.35)] md:text-base">
                 Solicitar prueba inicial
                 <ArrowRight className="h-5 w-5 transition group-hover:translate-x-1" />
               </a>
@@ -289,7 +289,7 @@ export default function AdrianMarketingDigitalLanding() {
             </p>
 
             <div className="mt-7 flex flex-col justify-center gap-3 sm:flex-row md:mt-9 md:gap-4">
-              <a href="https://wa.me/34000000000?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20Adri%C3%A1n%20Marketing%20Digital" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#D8B45B] px-7 py-4 text-sm font-semibold text-black transition hover:scale-[1.02] hover:bg-[#e7c76e] md:px-8 md:text-base">
+              <a href="https://wa.me/34604806636?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20Adri%C3%A1n%20Marketing%20Digital" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#D8B45B] px-7 py-4 text-sm font-semibold text-black transition hover:scale-[1.02] hover:bg-[#e7c76e] md:px-8 md:text-base">
                 <MessageCircle className="h-5 w-5" />
                 Contactar por WhatsApp
               </a>
@@ -324,7 +324,7 @@ export default function AdrianMarketingDigitalLanding() {
               <Camera className="h-4 w-4" />
               Instagram
             </a>
-            <a href="https://wa.me/34000000000" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition hover:text-white">
+            <a href="https://wa.me/34604806636" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition hover:text-white">
               <MessageCircle className="h-4 w-4" />
               WhatsApp
             </a>
@@ -336,7 +336,7 @@ export default function AdrianMarketingDigitalLanding() {
         </div>
       </footer>
 
-      <a href="https://wa.me/34000000000" target="_blank" rel="noopener noreferrer" aria-label="Contactar por WhatsApp" className="fixed bottom-5 right-5 z-50 flex h-16 w-16 items-center justify-center rounded-full bg-[#25D366] text-white shadow-[0_0_30px_rgba(37,211,102,0.45)] transition hover:scale-110 active:scale-95">
+      <a href="https://wa.me/34604806636" target="_blank" rel="noopener noreferrer" aria-label="Contactar por WhatsApp" className="fixed bottom-5 right-5 z-50 flex h-16 w-16 items-center justify-center rounded-full bg-[#25D366] text-white shadow-[0_0_30px_rgba(37,211,102,0.45)] transition hover:scale-110 active:scale-95">
         <WhatsAppIcon />
       </a>
     </div>
