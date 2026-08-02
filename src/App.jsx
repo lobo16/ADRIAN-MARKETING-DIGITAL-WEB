@@ -95,7 +95,7 @@ export default function AdrianMarketingDigitalLanding() {
           <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }} className="flex flex-col justify-center">
             <div className="mb-5 inline-flex w-fit items-center gap-2 rounded-full border border-[#D8B45B]/30 bg-[#D8B45B]/10 px-3 py-2 text-xs text-[#E9D398] md:px-4 md:text-sm">
               <Sparkles className="h-4 w-4" />
-              Prueba inicial: 15 días o hasta generar 1.000 €.
+              Prueba inicial: 15 días.
             </div>
 
             <h1 className="max-w-4xl text-4xl font-semibold leading-[1.04] tracking-tight text-white md:text-7xl">
@@ -190,7 +190,7 @@ export default function AdrianMarketingDigitalLanding() {
                   Durante los primeros 15 días trabajamos tu captación sin cobrar honorarios de gestión. Tú solo pagas la inversión que vaya directamente a Meta.
                 </p>
                 <p className="mt-4 text-sm leading-6 text-white/48 md:text-base md:leading-7">
-                  La prueba finaliza al cumplirse 15 días o al generar 1.000 € de facturación, lo que ocurra antes. Si decides continuar, el mes se factura completo desde el inicio del periodo trabajado. Si no continúas, no pagas honorarios de gestión.
+                  La prueba finaliza al cumplirse 15 días. Si decides continuar, el mes se factura completo desde el inicio del periodo trabajado. Si no continúas, no pagas honorarios de gestión.
                 </p>
               </div>
 
