@@ -289,19 +289,26 @@ export default function AdrianMarketingDigitalLanding() {
             </p>
 
             <div className="mt-7 flex flex-col justify-center gap-3 sm:flex-row md:mt-9 md:gap-4">
-              <a href="https://wa.me/34604806636?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20Adri%C3%A1n%20Marketing%20Digital" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#D8B45B] px-7 py-4 text-sm font-semibold text-black transition hover:scale-[1.02] hover:bg-[#e7c76e] md:px-8 md:text-base">
+              <a
+                href="https://wa.me/34604806636?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20Adri%C3%A1n%20Marketing%20Digital"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-[#D8B45B] px-7 py-4 text-sm font-semibold text-black transition hover:scale-[1.02] hover:bg-[#e7c76e] md:px-8 md:text-base"
+              >
                 <MessageCircle className="h-5 w-5" />
                 Contactar por WhatsApp
-              <a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=adriamarkdigital@gmail.com"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="inline-flex items-center justify-center rounded-full border border-white/15 bg-white/5 px-7 py-4 text-sm font-semibold text-white transition hover:bg-white/10 md:px-8 md:text-base"
->
-  Enviar email
-</a>
+              </a>
 
-        
+              <a
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=adriamarkdigital@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center gap-2 rounded-full border border-white/15 bg-white/5 px-7 py-4 text-sm font-semibold text-white transition hover:bg-white/10 md:px-8 md:text-base"
+              >
+                <Mail className="h-5 w-5" />
+                Enviar email
+              </a>
+            </div>
           </div>
         </motion.section>
       </main>
@@ -336,10 +343,15 @@ export default function AdrianMarketingDigitalLanding() {
               <MessageCircle className="h-4 w-4" />
               WhatsApp
             </a>
-            <a href="mailto:adriamarkdigital@gmail.com" className="inline-flex items-center gap-2 transition hover:text-white">
-  <Mail className="h-4 w-4" />
-  Email
-</a>
+            <a
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=adriamarkdigital@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 transition hover:text-white"
+            >
+              <Mail className="h-4 w-4" />
+              Email
+            </a>
           </div>
         </div>
       </footer>
